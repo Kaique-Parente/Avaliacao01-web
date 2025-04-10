@@ -1,5 +1,5 @@
 com\mycompany\avaliacao01web\JakartaRestConfiguration.class
 com\mycompany\avaliacao01web\resources\ConectorJDBC.class
-com\mycompany\avaliacao01web\resources\Livro.class
 com\mycompany\avaliacao01web\resources\CRUD.class
 com\mycompany\avaliacao01web\resources\JakartaEE10Resource.class
+com\mycompany\avaliacao01web\resources\Funcionario.class
